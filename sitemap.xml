@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://thiagojorge.github.io/thiago.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://thiagojorge.github.io/thiago.com/</loc>
+</url>
+<url>
+<loc>https://thiagojorge.github.io/thiago.com/games/</loc>
+<lastmod>2022-07-10T14:13:37-03:00</lastmod>
+</url>
+<url>
+<loc>https://thiagojorge.github.io/thiago.com/nesse-dia-eu-quis-sair/</loc>
+<lastmod>2022-07-10T14:20:56-03:00</lastmod>
+</url>
+<url>
+<loc>https://thiagojorge.github.io/thiago.com/portfolio/</loc>
+<lastmod>2022-07-10T13:53:58-03:00</lastmod>
+</url>
+<url>
+<loc>https://thiagojorge.github.io/thiago.com/um-pouco-sobre-mim/</loc>
+<lastmod>2022-07-10T18:49:04-03:00</lastmod>
+</url>
+</urlset>

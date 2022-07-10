@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thiagojorge.github.io/thiago.com/sitemap.xml
