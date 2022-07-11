@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "thiagojorge.com",
+    "title": "Crônicas",
     "description": "",
     "home_page_url": "https://thiagojorge.github.io/thiago.com",
     "feed_url": "https://thiagojorge.github.io/thiago.com/feed.json",
@@ -9,19 +9,5 @@
         "name": "Thiago"
     },
     "items": [
-        {
-            "id": "https://thiagojorge.github.io/thiago.com/um-pouco-sobre-mim/",
-            "url": "https://thiagojorge.github.io/thiago.com/um-pouco-sobre-mim/",
-            "title": "👋 Oi, seja bem-vindo!",
-            "summary": "Obrigado pela visita.&nbsp; Sou Analista de Marketing Sênior, com experiência em planejamento de redes sociais, design gráfico on e off e tráfego pago para Facebook/Instagram e LinkedIn.&nbsp; Saiba mais sobre trabalhos no menu Portfólio. Visite meu LinkedIn.&nbsp;",
-            "content_html": "\n    <h2 id=\"obrigado-pela-visitanbsp\">\n      Obrigado pela visita.&nbsp;\n    </h2>\n\n  <p>\n    Sou Analista de Marketing Sênior, com experiência em planejamento de redes sociais, design gráfico on e off e tráfego pago para Facebook/Instagram e LinkedIn.&nbsp;\n  </p>\n\n  <p>\n    Saiba mais sobre trabalhos no menu <a href=\"https://thiagojorge.github.io/thiago.com/portfolio/\" target=\"_blank\">Portfólio</a>. Visite meu <a href=\"https://www.linkedin.com/in/thiagojorge1/\" target=\"_blank\">LinkedIn</a>.&nbsp;\n  </p>",
-            "author": {
-                "name": "Thiago"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-07-10T18:46:37-03:00",
-            "date_modified": "2022-07-10T18:49:04-03:00"
-        }
     ]
 }

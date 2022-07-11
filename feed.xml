@@ -1,43 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>thiagojorge.com</title>
+    <title>Crônicas</title>
     <link href="https://thiagojorge.github.io/thiago.com/feed.xml" rel="self" />
     <link href="https://thiagojorge.github.io/thiago.com" />
-    <updated>2022-07-10T18:49:04-03:00</updated>
+    <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Thiago</name>
     </author>
     <id>https://thiagojorge.github.io/thiago.com</id>
 
-    <entry>
-        <title>👋 Oi, seja bem-vindo!</title>
-        <author>
-            <name>Thiago</name>
-        </author>
-        <link href="https://thiagojorge.github.io/thiago.com/um-pouco-sobre-mim/"/>
-        <id>https://thiagojorge.github.io/thiago.com/um-pouco-sobre-mim/</id>
-
-        <updated>2022-07-10T18:49:04-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Obrigado pela visita.&nbsp; Sou Analista de Marketing Sênior, com experiência em planejamento de redes sociais, design gráfico on e off e tráfego pago para Facebook/Instagram e LinkedIn.&nbsp; Saiba mais sobre trabalhos no menu Portfólio. Visite meu LinkedIn.&nbsp;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="obrigado-pela-visitanbsp">
-      Obrigado pela visita.&nbsp;
-    </h2>
-
-  <p>
-    Sou Analista de Marketing Sênior, com experiência em planejamento de redes sociais, design gráfico on e off e tráfego pago para Facebook/Instagram e LinkedIn.&nbsp;
-  </p>
-
-  <p>
-    Saiba mais sobre trabalhos no menu <a href="https://thiagojorge.github.io/thiago.com/portfolio/" target="_blank">Portfólio</a>. Visite meu <a href="https://www.linkedin.com/in/thiagojorge1/" target="_blank">LinkedIn</a>.&nbsp;
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
